@@ -1,49 +1,29 @@
-.calculadora {
-    background: rgb(0, 26, 255);
-    color: black;
+.verde {
+    width: 400px;
+    height: 300px;
+    background: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.amarelo {
     width: 200px;
-    padding: 10px;
-    border-radius: 15px;
-    text-align: center;
-}
-.calculadora input {
-background:rgb(0, 36, 90)
-color: blue;
-border-radius: 9px;
-padding: 5px;
-}
-.calculadora input :focus{
-    background: white;
-    color: rgb(238, 255, 0);
-}
-
-#sptotal {
-    background: rgb(104, 103, 177);
-    color: black;
-    border-radius: 8px;
-    padding: 4px;
-    margin-bottom: 10px;
+    height: 200px;
+    background: yellow;
+    transform: rotateZ(42deg)
     
 }
-.calculadora button {
-margin-top: 10px;
-background: rgb(101, 161, 158);
-color: black;
-padding: 3px 13px;
-
+.azul {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
 }
-.calculadora button:hover {
+.branco {
+    width: 200px;
+    height: 20px;
     background: white;
-    color: black;
-    cursor: pointer;
+    transform: rotateZ(137deg);
 }
-#splistameses {
-    text-align: start;
-    border-style:groove;
-    border-color: rgb(158, 38, 132);
-    border-width: 2px;
-    color: rgb(0, 0, 0);
-    background: rgb(135, 117, 238);
-    margin-top: 13px;
-}
-
