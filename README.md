@@ -1,7 +1,7 @@
-# Terceiro Trimestre
+# Terceiro Trimestre 
 
-##  Identificação
-Pablo Rogerio - nr.  27
+## Identificação
+Pablo Rogerio Scheller de Almeida N27
 
-## conteudo
-HTML, CSS JavaScript
+## Conteúdo
+HTML, CSS e javaScript
